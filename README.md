@@ -66,7 +66,3 @@ This project explores the complete NLP pipeline — from exploratory data analys
 ## Repository
 > This repository contains the transformer-based implementation (Phase 3 & 4).
 > Earlier phases are available upon request.
-
----
-
-*Developed by Eisha · BS Data Science*
