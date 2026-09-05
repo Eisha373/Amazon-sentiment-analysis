@@ -46,10 +46,10 @@ This project explores the complete NLP pipeline — from exploratory data analys
 ## Results
 | Metric | Score |
 |--------|-------|
-| Accuracy | 93.27% |
-| Precision | 93.27% |
-| Recall | 93.27% |
-| F1 Score | 93.27% |
+| Accuracy | 94.07% |
+| Precision | 94.07% |
+| Recall | 94.07% |
+| F1 Score | 94.07% |
 
 ---
 
