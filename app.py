@@ -54,8 +54,7 @@ app = gr.Interface(
         label="Prediction",
         lines=6
     ),
-    title="🛍️ Amazon Review Sentiment Analyzer",
-    description="Powered by DistilBERT — 93.27% Accuracy",
+    title="🧠 ReviewBERT — Sentiment Analyzer",
     examples=[
         ["This product is absolutely amazing! Best purchase ever!"],
         ["Terrible quality, broke after one day. Waste of money."],
