@@ -1,4 +1,4 @@
-# Amazon Sentiment Analysis — DistilBERT
+# ReviewBERT — Transformer Based Sentiment Analysis
 
 > Binary sentiment classification on Amazon product reviews using fine-tuned DistilBERT transformer.
 
